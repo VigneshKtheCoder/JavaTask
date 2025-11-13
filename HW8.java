@@ -52,7 +52,7 @@ class Solution {
     }
 
     /**
-     * PURPOSE: Performs a post-order traversal to calculate 
+     * PURPOSE: Performs a post order traversal to calculate 
      *          the PPE balance for each node.
      * Each node returns its balance = (node.val + leftBalance + rightBalance - 1)
      * Moves are counted as the absolute values of left and right balances,
